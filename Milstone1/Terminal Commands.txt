@@ -1,0 +1,63 @@
+Terminal Commands
+
+*** When stuck try CNTRL = C , or CNTRL + X ****
+
+pwd = pring working directory
+
+mkdir = makes a new directory
+
+ls = lists the files and directories from either the current directory or a directory that you specify
+- ls -l = long list
+- ls -la = all files (including hidden)
+
+cd = Change directory
+
+rm = remove file or directory
+- rm - rf = recursively removes files and directories
+
+cat = prints file contents
+
+nano = text editor
+
+VI/VIM = more complex text editor
+- to append type a (insert mode)
+- to write to a file type w
+- to exit insert mode hit esc
+
+mv = moves a file
+
+cp = Copies a file
+- cp -r = recursiely copy folders
+
+sudo = gives administrator rights
+
+touch = creates an empty file
+
+clear = clears the screen
+
+rmdir = remove directory
+
+wildcards:
+- * placeholder for any number of characters
+- ? placeholder for single character
+
+. = current directory
+
+.. = up one directory
+
+~ = current directory
+
+!! = last command
+
+"arrow up" = toggle through last commands
+
+"tab" = completes command
+
+man = manual pages for given command
+
+Bash:
+- \ = escape character
+- "" - treat everything inside literally
+- - = single character option (e.g. -l)
+- -- = "word" options (e.g. --help)
+:q = quit

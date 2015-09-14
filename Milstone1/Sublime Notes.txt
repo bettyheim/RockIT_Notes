@@ -1,0 +1,11 @@
+Sublime Notes
+
+Command + Cntr +p = switch project
+
+Cmd + Shift + p = command pallet
+
+Cmd + p = file search
+
+CNTRL + ~ = console
+
+CNTRL + alt + c = opens in a Chrome browser

@@ -1,0 +1,9 @@
+ect paths
+
+/usr/local/bin
+/usr/local/sbin/
+usr/local/opt/coreutils/libexec/gnubin
+usr/bin
+/bin
+/usr/sbin
+/sbin
