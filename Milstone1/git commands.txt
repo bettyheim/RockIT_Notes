@@ -3,4 +3,5 @@ git commands
 git init = initializes a directory as a git repository
 git add = adds a file to the repository
 git status = shows the status of the repository
-git commit + message (change notes) = upload to the repository 
+git commit + -m + message (change notes) = upload to the repository
+git rm "file name" --cached = it is not deleted from the hard drive (--cached) rm: remove from tracking
