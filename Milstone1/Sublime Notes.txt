@@ -9,3 +9,14 @@ Cmd + p = file search
 CNTRL + ~ = console
 
 CNTRL + alt + c = opens in a Chrome browser
+
+CMND + D selects additional words that match the word your cursor is on
+
+CMND + Click = give multiple cursors where you can type in the same thing.
+
+square brackets + Command = tab left or right
+
+CMND / will comment out highlighted text
+Lorem +  Tab inputs lorem ipsum text
+
+emmit create html doc

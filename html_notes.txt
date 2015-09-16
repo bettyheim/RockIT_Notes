@@ -1,0 +1,7 @@
+html notes
+
+Inline elements are elements that continue along on the current line.
+
+Block elements are elements that are on their own line.
+
+one-sided tags do not have a closing tag. They also do no use a closing slash.

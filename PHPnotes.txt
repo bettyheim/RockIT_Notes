@@ -1,0 +1,5 @@
+PHP notes
+
+require() wll stop the code from executing if the file to be executed cannot be found.
+
+inclue() will allow the code to continue if the file can't be found.
